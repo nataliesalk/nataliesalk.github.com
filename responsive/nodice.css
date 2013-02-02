@@ -1,5 +1,4 @@
 
-
-@media handheld{
-p.computer{display:none;}
+@media handheld and (min-width: 640px) and (max-width: 1136px){
+p.phone{display:none;}
 }
