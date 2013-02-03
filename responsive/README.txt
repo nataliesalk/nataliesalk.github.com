@@ -7,5 +7,6 @@ say "Dice" on the screeen.
 
 I worked with Stefan Lenoach on this lab. 
 
-This lab took me two hours to complete
+This lab took me two hours to complete. 
+
 
