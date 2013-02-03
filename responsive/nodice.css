@@ -1,5 +1,4 @@
-
-@media handheld 
+@media handheld and (max-device-width: 640px)
 {
 p.phone{display:none;}
 }
